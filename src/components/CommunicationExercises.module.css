@@ -1,0 +1,32 @@
+/* components/CommunicationExercises.module.css */
+.container {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+
+
+.exercise {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.context, .dialogue, .structure {
+    margin-bottom: 15px;
+}
+
+.dialogue p {
+    padding-left: 20px;
+}
+
+.dialogue strong {
+    color: #333;
+}
